@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Healthcare.API.Controllers.HealthController",
+    "Method": "GetHealthStatus",
+    "RelativePath": "api/Health/health-response",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

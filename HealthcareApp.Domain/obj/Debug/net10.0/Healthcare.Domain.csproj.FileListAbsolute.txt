@@ -1,0 +1,13 @@
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\bin\Debug\net10.0\Healthcare.Domain.deps.json
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\bin\Debug\net10.0\Healthcare.Domain.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\bin\Debug\net10.0\Healthcare.Domain.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.csproj.AssemblyReference.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.AssemblyInfoInputs.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.AssemblyInfo.cs
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.csproj.CoreCompileInputs.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\refint\Healthcare.Domain.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthcare.Domain.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\ref\Healthcare.Domain.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Domain\obj\Debug\net10.0\Healthca.264ACFAD.Up2Date

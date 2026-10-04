@@ -1,0 +1,17 @@
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.csproj.AssemblyReference.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.AssemblyInfoInputs.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.AssemblyInfo.cs
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.csproj.CoreCompileInputs.cache
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Infrastructure.deps.json
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Infrastructure.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Infrastructure.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Application.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Domain.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Application.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\bin\Debug\net10.0\Healthcare.Domain.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthca.5260CDE5.Up2Date
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\refint\Healthcare.Infrastructure.dll
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\Healthcare.Infrastructure.pdb
+E:\WorkSpace\HealthCarePlatform\backend\HealthcareApp.Infrastructure\obj\Debug\net10.0\ref\Healthcare.Infrastructure.dll

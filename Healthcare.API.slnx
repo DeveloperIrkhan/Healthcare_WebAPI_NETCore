@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Healthcare.API/Healthcare.API.csproj" />
+  <Project Path="HealthcareApp.Application/Healthcare.Application.csproj" Id="6b424c5d-5604-4781-b881-f6b992333229" />
+  <Project Path="HealthcareApp.Domain/Healthcare.Domain.csproj" Id="cb568140-7e38-452c-8dfe-090e3a8b2772" />
+  <Project Path="HealthcareApp.Infrastructure/Healthcare.Infrastructure.csproj" Id="90e62f09-9f0f-4e9f-bde4-0efadb4f1203" />
+</Solution>
